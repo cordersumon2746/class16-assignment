@@ -1,0 +1,182 @@
+.menu-section{
+    background: #101446;
+}
+
+.logo img{
+    width: 86px;
+    margin-top: 8px;
+    margin-left: 75px;
+    font-size: 20px;
+}
+
+.menu{
+  margin-bottom: -16px;
+}
+
+.menu ul li{
+    list-style: none;
+    display:inline-block;
+    padding: 20px 20px;
+    
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menu ul li:hover{
+    background: rgb(146, 8, 8);
+}
+
+/* banner-section */
+ 
+.banner-section{
+    position: relative;
+}
+
+.banner{
+    width: 100%;
+    padding: 360px 0px;
+    background-image: url(./image/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.banner-content{
+    position: absolute;
+    top: 344px;
+    left: 272px;
+    color: white;
+    text-align: center;
+}
+.banner-content h1{
+    font-size: 28px;
+}
+
+.banner-content p{
+    width: 743px;
+    margin: 30px 0px;
+}
+
+.banner-content a{
+    text-decoration: none;
+    color: aliceblue;
+    display: inline-block;
+    background: #3072ab;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+/* teem-section */
+
+
+.teem-section{
+    background: #bac1f3;
+    padding: 120px;
+}
+
+.jec-content{
+   width: 190px;
+   text-align: center;
+}
+
+.jec-content a{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background: #3072ab;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+    
+}
+
+.meet{
+    margin-bottom: 52px;
+}
+
+.meet h1{
+    font-size: 54px;
+}
+
+.m{
+    margin-bottom: 20px;
+}
+
+
+/* contact-section */
+.contact{
+    margin-bottom: 50px;
+}
+.contact-content h1{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.contact input{
+    width:500px;
+    margin: 10px 0px;
+}
+.contact textarea{
+    width: 500px;
+    margin: 10px 0px;
+}
+
+.contact a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background: #5bc0de;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+
+iframe{
+    width: 550px;
+}
+
+/* about-section */
+.aboutcontent{
+    margin-left: 28px;
+    line-height: 40px;
+   
+}
+
+.about-me{
+    margin-top: 40px;
+}
+
+.display{
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.about-section{
+    background: #c2d4ea;
+}
+.about-s{
+    padding-top: 100px;
+}
+.about-s h1{
+    font-size: 58px;
+}
+
+
+/* footer-section */
+
+.footer-section{
+    background: #0062d3;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+}
+
+.footer span{
+    display: inline-block;
+    padding: 5px 0px;
+}
